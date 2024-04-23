@@ -100,36 +100,3 @@ JWT secret
 ```
 
 
-Click on the "Create Web Service" button to create your backend server.
-
-Once your backend server is live, update the frontend code with the new backend URL (the one provided by Render).
-
-Run npm run build in the client-side code to create a build folder.
-
-In the build folder, create a new file called _redirects and add the following line of code: /* /index.html 200.
-
-Upload the build folder to a hosting service such as Netlify.
-
-Create a new live site link in Netlify and change the domain namer.
-
-Your project should now be live and accessible via the new domain name.
-
-Make sure to test your application thoroughly after deployment to ensure that everything is working as expected.
-
-## Screenshots
-## Video
-https://github.com/prakash-s-2210/mern-recipe-book-app/assets/94909544/6ebb4392-f9f8-4d7f-9319-22fd571321e1
-## Register Page Screenshot
-![Register](https://github.com/prakash-s-2210/mern-recipe-book-app/assets/94909544/2bafd98e-56e2-45c2-9319-7bf1732e8a73)
-## Login Page Screenshot
- ![Login](https://github.com/prakash-s-2210/mern-recipe-book-app/assets/94909544/707a6cbd-494a-4e3b-b82e-04713477cca1)
-
-## Home Page Screenshot
-![home](https://github.com/prakash-s-2210/mern-recipe-book-app/assets/94909544/e5c88f6f-a5f1-4b57-8768-d18eb8bd45da)
-## Profile Page Screenshot
-![profile](https://github.com/prakash-s-2210/mern-recipe-book-app/assets/94909544/e522b101-bf15-4925-af76-7b0fcd72bc42)
-
- ## Author
-
-- [Prakash S](https://www.linkedin.com/in/prakash2210/)
-
